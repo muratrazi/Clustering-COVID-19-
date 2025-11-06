@@ -15,3 +15,4 @@ to the size of the dataset. Additionally, direct clustering of the mortality
 time series has been carried out by K means. This paper discusses
 some common findings that point to cultural and socio-economic factors
 underlying the response.
+https://link.springer.com/chapter/10.1007/978-3-031-61137-7_38
